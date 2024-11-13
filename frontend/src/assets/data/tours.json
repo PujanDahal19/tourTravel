@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Trip to Pokhara",
+    "city": "Pokhara",
+    "address": "Fewa lake",
+    "distance": 300,
+    "price": 10000,
+    "maxGroupSize": 10,
+    "desc": "Pokhara's spellbinding beauty has been the subject of many travel writers. Its pristine air, the spectacular backdrop of the snowy peaks of the Annapurna Range and the serene Phewa, Begnas and Rupa Lakes, makes this destination 'the Jewel of the Himalaya.",
+    "reviews": [],
+    "hotel": "Pokhara Hotel and Lodge",
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Kathmandu",
+    "city": "Kathmandu",
+    "address": "Kathmandu Durbar Square",
+    "distance": 400,
+    "price": 5000,
+    "maxGroupSize": 8,
+    "desc": "Kathmandu is and has been for many years the centre of Nepal's history, art, culture, and economy. It has a multi-ethnic population within a Hindu and Buddhist majority. Religious and cultural festivities form a major part of the lives of people residing in Kathmandu.",
+    "reviews": [],
+    "hotel": "Classic Newar Hotel",
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Trek to Langtang Valley",
+    "city": "Langtag",
+    "address": "Somewhere in Langtang",
+    "distance": 500,
+    "price": 20000,
+    "maxGroupSize": 8,
+    "desc": "The Langtang Valley lies within the Langtang National Park. The park contains a wide variety of climatic zones, from subtropical to alpine. Approximately 25% of the park is forested. Trees include the deciduous oak and maple, evergreens like pine, and various types of rhododendron.",
+    "reviews": [],
+    "hotel": "Langtang View Hotel",
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Trek to ABC",
+    "city": "Outside of Pokhara",
+    "address": "Somewhere in ABC",
+    "distance": 500,
+    "price": 15000,
+    "maxGroupSize": 8,
+    "desc": "The Annapurna Base Camp Trek (ABC) is one of the most popular trekking experiences in Nepal. It is an amazing walk through a diverse landscape and culture, complete with stunning mountain vistas, terraced fields, quaint Gurung villages, and a wide variety of flora and fauna.",
+    "reviews": [],
+    "hotel": "Hotel Annapurna",
+    "photo": "/images/tour-images/tour-img04.jpg",
+    "featured": true
+  }
+]
